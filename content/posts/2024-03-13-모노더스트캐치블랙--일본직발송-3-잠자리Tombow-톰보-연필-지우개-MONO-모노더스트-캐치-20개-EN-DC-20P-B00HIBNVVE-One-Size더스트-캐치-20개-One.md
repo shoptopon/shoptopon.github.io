@@ -3,8 +3,9 @@ title: '모노더스트캐치블랙  [10~50대]  일본직발송 3. 잠자리(To
 date: 2024-03-13
 slug: '모노더스트캐치블랙--일본직발송-3-잠자리Tombow-톰보-연필-지우개-MONO-모노더스트-캐치-20개-EN-DC-20P-B00HIBNVVE-One-Size더스트-캐치-20개-One'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 모노더스트캐치블랙]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', '모노더스트캐치블랙']
+---
 
 ## 모노더스트캐치블랙: 당신의 방을 깨끗하고 쾌적하게
 

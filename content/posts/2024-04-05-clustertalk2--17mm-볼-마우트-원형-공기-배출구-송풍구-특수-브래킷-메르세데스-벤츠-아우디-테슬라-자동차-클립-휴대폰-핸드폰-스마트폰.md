@@ -3,8 +3,9 @@ title: 'clustertalk2  [50~60대 여성추천]  17mm 볼 마우트 원형 공기 
 date: 2024-04-05
 slug: 'clustertalk2--17mm-볼-마우트-원형-공기-배출구-송풍구-특수-브래킷-메르세데스-벤츠-아우디-테슬라-자동차-클립-휴대폰-핸드폰-스마트폰'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, clustertalk2]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'clustertalk2']
+---
 
 ## Clustertalk2: 당신을 위한 맞춤형 AI 대화원!
 
